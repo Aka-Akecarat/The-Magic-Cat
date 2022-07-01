@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 13e6ec5ae9564ab4ba82a8b6f2e1159f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FC Iconic Text
+  fontNames:
+  - FC Iconic Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 72079df8ca11a7941b61923e471e5b10, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

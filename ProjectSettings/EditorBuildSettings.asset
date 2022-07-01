@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5700adf4e1a00724a8b7b0cd1a847219
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Dialogue.unity
+    guid: d8b127ab0e3085a4eb3ecdf7b3fa1e2b
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Sqare1-100.unity
+    guid: 0fab29457e2b0ca45950bde98b6c3eef
+  - enabled: 1
+    path: Assets/Scenes/FillTheAnswer.unity
+    guid: d25d17f12fc1afc4fb061d83b1dbe49c
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Dialogue_2.unity
+    guid: cc8bd5d9ea763ad4d9018424a29a90f4
+  - enabled: 1
+    path: Assets/Scenes/Inside+.unity
+    guid: 22371606a516a8641ac716c7b4c4fd23
+  - enabled: 1
+    path: Assets/Scenes/Inside-.unity
+    guid: cd55184896ecee64cb26e581b80feddb
+  - enabled: 1
+    path: Assets/Scenes/Insidex %.unity
+    guid: 61cae68e519e7a340b9b8524fcc229e6
+  - enabled: 1
+    path: Assets/Scenes/Insidex.unity
+    guid: f6c5d883022ddc64eaec2a8bd124c8a7
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_1+1.unity
+    guid: 085e12c2bec82a847a1a607b9aabcd37
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_1+0.1.unity
+    guid: 4666b3f706abf1f45b819a283fae3766
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_0.1+0.1.unity
+    guid: 79c1f15963bb4c74bab01a9448cf4dc0
+  - enabled: 1
+    path: Assets/Scenes/AskBeforeGo.unity
+    guid: 5177ed2bc955de340aba0bee5db7f138
+  - enabled: 1
+    path: Assets/Scenes/3_Box_1-1.unity
+    guid: fb9a4c826fc062e469c6299a355730aa
+  - enabled: 1
+    path: Assets/Scenes/3_Box_1-2.unity
+    guid: a70259d52c7412a4981e874141c63431
+  - enabled: 1
+    path: Assets/Scenes/3_Box_1-3.unity
+    guid: 956e66a0106954e4992ac89ce777cb7c
+  - enabled: 1
+    path: Assets/Scenes/3_Box_2-1.unity
+    guid: 33d2ca3d7c2a4c947b7ad0928ea05dd0
+  - enabled: 1
+    path: Assets/Scenes/3_Box_2-2.unity
+    guid: b3487431d37a8de44ae97fc819962a2e
+  - enabled: 1
+    path: Assets/Scenes/3_Box_2-3.unity
+    guid: fd53e280efda4b744bd7174d7014bf78
+  - enabled: 1
+    path: Assets/Scenes/3_Box_3-1.unity
+    guid: 80bcc49d98bf30949880732244b3ff8c
+  - enabled: 1
+    path: Assets/Scenes/3_Box_3-2.unity
+    guid: 239409f80a82bf049a837c63dc027bae
+  - enabled: 1
+    path: Assets/Scenes/3_Box_3-3.unity
+    guid: 388c7f68fb404c84e8c95a321009b0c8
+  - enabled: 1
+    path: Assets/Scenes/3_Box_4-1.unity
+    guid: b1f787170a5600b4ba21f0b4720d0eeb
+  - enabled: 1
+    path: Assets/Scenes/3_Box_4-2.unity
+    guid: bf312cf4d0df9594ca15c77cf75fe968
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_0.1-0.1.unity
+    guid: a2f18315800f2dc46ac1424ddc86fe4f
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_1-0.1.unity
+    guid: 091699b57048e6448a6b92d4a32a3648
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_1-1.unity
+    guid: 02c7048736704284aaeab6a0aedd1158
+  - enabled: 1
+    path: Assets/Scenes/Level_1-1.unity
+    guid: ea75e8c0792636541953780b21508ed9
+  - enabled: 1
+    path: Assets/Scenes/Level_1-2.unity
+    guid: 78478079a22ca8f4883a6cc8fe101c94
+  - enabled: 1
+    path: Assets/Scenes/Level_1-3.unity
+    guid: afea723ad40fbeb41a60eb243be23c13
+  - enabled: 1
+    path: Assets/Scenes/Level_2-1.unity
+    guid: d13a4daf23af15c4d9d452ebc4350f8f
+  - enabled: 1
+    path: Assets/Scenes/Level_2-2.unity
+    guid: 6670d606d6574864aaf6e43132ece897
+  - enabled: 1
+    path: Assets/Scenes/Level_2-3.unity
+    guid: e6c84bf02d4ba334e8f3ebcab302aba3
+  - enabled: 1
+    path: Assets/Scenes/Level_3-1.unity
+    guid: bb7fbf2f2a35fda47821f682bcff4d81
+  - enabled: 1
+    path: Assets/Scenes/Level_3-2.unity
+    guid: 3d08167bef0f50446a504824fa49970d
+  - enabled: 1
+    path: Assets/Scenes/Level_3-3.unity
+    guid: 620926b42d6d24d43830bb5e43ea571f
+  - enabled: 1
+    path: Assets/Scenes/Level_4-1.unity
+    guid: 923c521fdefaea84fa33e33cabe64808
+  - enabled: 1
+    path: Assets/Scenes/Level_4-2.unity
+    guid: 9fbb222bc8e32774698467060f24d8da
+  - enabled: 1
+    path: Assets/Scenes/Level_Boss.unity
+    guid: 68bb8cd1b68f7a145949bc553ccca602
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin.unity
+    guid: aab057e5379964143899d2da5e498dd1
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin2.unity
+    guid: 15512cc731e346746bcba274b3fab52f
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin3.unity
+    guid: 6ac7344b994c8ab4586daabf966781cf
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin4.unity
+    guid: ab58dcde15106fa42b2db5fc5c181841
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin5.unity
+    guid: 0b5b0be8767ba1f478b5af3a18fc9d55
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin6.unity
+    guid: 18e43392b4a11f54a95e2f1b13095ded
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin7.unity
+    guid: cd46cc1002b3e174e9e71b6f4111b02b
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin8.unity
+    guid: 84d56f0ecbc9a7a4fb0148c0086fa8dd
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin9.unity
+    guid: 16c3728ec328f7046a2eaf6ef5c4b4a4
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin10.unity
+    guid: f33981ee07ae9484483b9971fdaa34b7
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin11.unity
+    guid: d0a5d3ca9dea057409040c9fef95fe98
+  - enabled: 1
+    path: Assets/Scenes/coinRoom/coin12.unity
+    guid: 078eef675d9f30143b1506d769d57452
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_1x1.unity
+    guid: f2e8ed9689aa0254d9fabf505e97175c
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_1x0.1.unity
+    guid: 6385d4afc8fe9634a9a86354fcfbfd33
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_0.1x0.1.unity
+    guid: e347ba81b12ade74bb6a7fbff5771493
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_1%1.unity
+    guid: ff655172375278142b8847a664dd2252
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Scene_1%0.1.unity
+    guid: 4dd60e80b06ffdf43a36a302aef93299
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Dialogue_End.unity
+    guid: 934a9014771f1bd4890d5ea32110925d
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/Dialogue_SaveKing.unity
+    guid: e482040eb3b12554cb3d79f845fc3d3f
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: 453af5c288235dc4586efa5ee847d606
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/DragDropTutorial/Tu_Box_1-3.unity
+    guid: 0f4288b922c497142b9ebdfac6623666
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/DragDropTutorial/Tu_Box_2-3.unity
+    guid: f1fb66fe94ca4ee45994b1f980b3d97a
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/DragDropTutorial/Tu_Box_3-1.unity
+    guid: e6acb406bcf9cc34a88dd611e982be6e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/DragDropTutorial/Tu_Box_3-3.unity
+    guid: 98da64ae373b3a547a34cdb5573f88a5
+  - enabled: 1
+    path: Assets/Scenes/Cutscene/DragDropTutorial/Tu_Box_4-2.unity
+    guid: 685b0df277bc59b479167bb9bc697473
+  m_configObjects: {}
